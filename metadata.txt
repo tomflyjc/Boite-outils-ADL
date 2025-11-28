@@ -1,0 +1,22 @@
+# Mandatory items:
+
+[general]
+name=Boite_a_outils_ADL
+qgisMinimumVersion=3.0.0
+category=Tools
+description= Boite à outils pour l'administration de données locales
+version=0.0.1
+
+# Optional items:
+
+changelog=  0.0.1 first version.
+
+#icon=path/to/your/icon.png
+icon=.icons/LDAW_icon2.jpg
+experimental=True
+
+# Author contact information
+author=Jean-Christophe Baudin
+email=jean-christophe.baudin@cote-dor.gouv.fr
+
+class_name=Boite_a_outils_ADL
